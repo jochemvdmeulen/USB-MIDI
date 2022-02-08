@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "USB MIDI")(type KiCad)(uri "${KIPRJMOD}/USB MIDI.pretty")(options "")(descr ""))
+  (lib (name Connectors)(type KiCad)(uri D:/Jochem/Documenten/KiCad/Libraries/SparkFun-KiCad-Libraries-master/Footprints/Connectors.pretty)(options "")(descr ""))
+)

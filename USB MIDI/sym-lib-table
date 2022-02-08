@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name USB-MIDI)(type Legacy)(uri "${KIPRJMOD}/USB MIDI.lib")(options "")(descr ""))
+  (lib (name USB-MIDI-rescue)(type Legacy)(uri "${KIPRJMOD}/USB MIDI-rescue.lib")(options "")(descr ""))
+)
